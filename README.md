@@ -1,1 +1,1 @@
-FILE UNTUK AKSES WEB, ADA DI: samartfarming2.html
+FILE UNTUK AKSES WEB, ADA DI: smartfarming2.html
